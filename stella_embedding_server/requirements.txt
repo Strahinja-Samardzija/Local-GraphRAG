@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+torch
+transformers>=4.30.0
+optimum[onnxruntime]>=1.14.0
+sentencepiece
+onnxruntime

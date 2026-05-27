@@ -49,3 +49,6 @@ poc/
 docs/
 stella_onnx_cache/
 models/
+
+.kilo/
+.roo/

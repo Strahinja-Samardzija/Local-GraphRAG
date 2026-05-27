@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-chroma
+chromadb
+pypdf
+unstructured
+markdown
+tiktoken
+huggingface_hub
+llama-cpp-python
+requests
+starlette
+uvicorn
+fastapi
+torch
+transformers
