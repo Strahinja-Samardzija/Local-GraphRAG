@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+venv/
+.env
+
+# Virtual environment
+rag_env/
+
+# Models
+models/
+*.gguf
+
+# ChromaDB
+chroma_db/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Graph extraction checkpoints (auto-generated, can be recreated)
+# Exclude cluster_*.json files in root directory but keep them in docs/graph_checkpoints/
+cluster_*.json
+!docs/graph_checkpoints/cluster_*.json
+
+# Cleanup and backup files (not part of core project)
+backup/
+cleanup-obsolete.sh
+
+# Proof of Concept files (auto-generated examples)
+# Exclude poc/ directory entirely
+poc/
+
+docs/
+stella_onnx_cache/
+models/
