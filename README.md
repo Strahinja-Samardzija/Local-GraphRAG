@@ -91,7 +91,7 @@ mcp run run_mcp_server.py
 ## Project Structure
 
 ```
-sota-rag/
+local-graph-rag/
 ├── setup.sh                    # Environment setup script
 ├── requirements.txt            # Python dependencies
 ├── ingest_documents.py         # Multi-collection document ingestion
