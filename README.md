@@ -1,4 +1,4 @@
-# SOTA Local RAG System
+# Local GraphRAG System
 
 A production-ready, local-first Retrieval-Augmented Generation (RAG) system with multi-model embeddings, hierarchical document processing (RAPTOR), and knowledge graph extraction capabilities. **Resume-Ready Implementation**.
 
