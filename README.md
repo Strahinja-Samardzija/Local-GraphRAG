@@ -134,7 +134,7 @@ Example MCP configuration:
 ```json
 {
 	"mcpServers": {
-		"sota-rag": {
+		"graph-rag": {
 			"command": "/path/to/venv/bin/mcp",
 			"args": ["run", "run_mcp_server.py"],
 			"env": {
